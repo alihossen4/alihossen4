@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Mern development 
 - 💞️ I’m looking to collaborate on mern projects
 - 
-- ⚡ Fun fact: ... Learning the work to getting the work, but still not found it
+- ⚡ Fun fact: ... Actually im not so funny guy
 
 <!---
 alihossen4/alihossen4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
