@@ -1,8 +1,25 @@
-- 👋 Hi, I’m @alihossen4
-- 👀 I’m interested in ... Mern development 
-- 💞️ I’m looking to collaborate on mern projects
-- 
-- ⚡ Fun fact: ... Actually im not so funny guy
+# 💫 Hi 👋, I'm Ali Hossen
+**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+
+Email Me 👉 ✉️ **mdhsn.bin@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** e-commerse project
+- 🌱 **I’m currently learning:** React Native
+- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:*** mdhsn.bin@gmail.com
+- 😄 **Pronouns:** Ali Sir
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=technosnag&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
 # 💻 Tech Stack:
