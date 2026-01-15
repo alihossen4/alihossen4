@@ -27,9 +27,7 @@ Email Me 👉 ✉️ **mdhsn.bin@gmail.com** For Collaboration/Project or Anythi
 
 ![](https://github-readme-stats.vercel.app/api?username=alihossen4&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-<div align="center">
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
-</div>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alihossen4&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
