@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Ali Hossen
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+**A passionate Software Engineer || Web Deginer || SEO Support**
 
 Email Me 👉 ✉️ **mdhsn.bin@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
