@@ -7,7 +7,6 @@ Email Me 👉 ✉️ **mdhsn.bin@gmail.com** For Collaboration/Project or Anythi
 - 🌱 **I’m currently learning:** React Native
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:*** mdhsn.bin@gmail.com
-- 😄 **Pronouns:** Ali Sir
 - ⚡ **Fun fact:** What you see isn't happen actually
 
 
@@ -27,7 +26,7 @@ Email Me 👉 ✉️ **mdhsn.bin@gmail.com** For Collaboration/Project or Anythi
 ---
 [![](https://visitcount.itsvg.in/api?id=alihossen4&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=alihossen4&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -37,7 +36,7 @@ Email Me 👉 ✉️ **mdhsn.bin@gmail.com** For Collaboration/Project or Anythi
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alihossen4&icon=0&color=0)](https://visitcount.itsvg.in)
-
+-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
 alihossen4/alihossen4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
