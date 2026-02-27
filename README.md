@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **mdhsn.bin@gmail.com** For Collaboration/Project or Anythi
 - 🌱 **I’m currently learning:** React Native
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:*** mdhsn.bin@gmail.com
-- ⚡ **Fun fact:** What you see isn't happen actually
+- ⚡ **Fun fact:** What you see not always isn't happen actually
 
 
 ## 🌐 Socials:
