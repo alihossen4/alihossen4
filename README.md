@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/Nahid-Mahmud/Nahid-Mahmud/main/assets/photos/cover.png" />
+<img src="(https://github.com/alihossen4/assets/blob/38106707f9f1ae75266448e8147a5054ad784f34/cover.jpg)" />
 
 <br />
 # 💫 Hi 👋, I'm Ali Hossen
