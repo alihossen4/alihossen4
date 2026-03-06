@@ -1,5 +1,5 @@
 
-<img src="(https://github.com/alihossen4/assets/blob/38106707f9f1ae75266448e8147a5054ad784f34/cover.jpg)" />
+<img src="[https://github.com/alihossen4/assets/blob/38106707f9f1ae75266448e8147a5054ad784f34/cover.jpg]" />
 
 <br />
 # 💫 Hi 👋, I'm Ali Hossen
