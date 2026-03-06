@@ -1,5 +1,5 @@
 
-<img src="[https://github.com/alihossen4/assets/blob/38106707f9f1ae75266448e8147a5054ad784f34/cover.jpg]" />
+<img src="[https://raw.githubusercontent.com/alihossen4/assets/refs/heads/main/cover.jpg]" />
 
 <br />
 # 💫 Hi 👋, I'm Ali Hossen
@@ -51,13 +51,7 @@ A Full Stack Developer from Dinajpur, Bangladesh, passionate about Web Design & 
 
 <br />
 
-<p>
 
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=alihossen4&theme=onedark&column=-1" />
-</p>
-
-</p>
 
 ## Reach me out
 
