@@ -43,7 +43,7 @@ A Full Stack Developer from Dinajpur, Bangladesh, passionate about Web Design & 
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nahid-Mahmud&theme=light)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alihossen4&theme=light)](https://git.io/streak-stats)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=alihossen4)](https://github.com/anuraghazra/github-readme-stats)
 
