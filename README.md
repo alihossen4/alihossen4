@@ -1,5 +1,4 @@
-
-<img src="[https://raw.githubusercontent.com/alihossen4/assets/refs/heads/main/cover.jpg]" />
+<img src="https://raw.githubusercontent.com/alihossen4/assets/refs/heads/main/cover.jpg" />
 
 <br />
 # 💫 Hi 👋, I'm Ali Hossen
