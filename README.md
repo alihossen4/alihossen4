@@ -40,7 +40,7 @@ A Full Stack Developer from Dinajpur, Bangladesh, passionate about Web Design & 
 
 ## Streak Stats
 
-<div align="center">
+<div align="center"  margin="4">
 
 
 
