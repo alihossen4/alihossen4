@@ -19,6 +19,8 @@ A Full Stack Developer from Dinajpur, Bangladesh, passionate about Web Design & 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=about.me&logoColor=white)](https://mdalihossen.vercel.app/)/)
 
+
+
 ## About Me
 
 - 👀 I’m interested in Web Design & Development
@@ -60,6 +62,9 @@ A Full Stack Developer from Dinajpur, Bangladesh, passionate about Web Design & 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mehossen1) 
 
+# 👀 GitHub Visitors
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=alihossen4.alihossen4&"  />
+<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alihossen4&theme=radical&no-frame=false&no-bg=true&margin-w=4)
