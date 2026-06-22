@@ -7,7 +7,7 @@
 Email Me 👉 ✉️ **mdhsn.bin@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** e-commerse project
-- 🌱 **I’m currently learning:** React Native
+- 🌱 **I’m currently learning:** Flutter
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:*** mdhsn.bin@gmail.com
 - ⚡ **Fun fact:** What you see not always isn't happen actually
@@ -15,7 +15,7 @@ Email Me 👉 ✉️ **mdhsn.bin@gmail.com** For Collaboration/Project or Anythi
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=236709&width=435&lines=Full+Stack+Developer;Frontend+Developer;Backend+Developer;Mern+Stack+Developer;React+Developer;Next.js+Developer)](https://git.io/typing-svg)
 
-A Full Stack Developer from Dinajpur, Bangladesh, passionate about Web Design & Development. Specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js).
+A Full Stack Developer from Dhaka, Bangladesh, passionate about Web Design & Development. Specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js).
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=about.me&logoColor=white)](https://mdalihossen.vercel.app/)/)
 
