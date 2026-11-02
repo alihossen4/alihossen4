@@ -67,8 +67,10 @@ A Full Stack Developer from Dhaka, Bangladesh, passionate about Web Design & Dev
 <br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alihossen4&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alihossen4&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
 ---
 [![](https://visitcount.itsvg.in/api?id=alihossen4&icon=5&color=1)](https://visitcount.itsvg.in)
 
