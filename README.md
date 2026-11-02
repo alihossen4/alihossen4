@@ -42,36 +42,28 @@ A Full Stack Developer from Dhaka, Bangladesh, passionate about Web Design & Dev
 
 ## Streak Stats
 
-<div align="center" >
-
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alihossen4&theme=dark)](https://git.io/streak-stats)
-
-
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alihossen4&theme=dark" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br />
 
-
-
 ## Reach me out
-
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mehossen1) 
 
 # 👀 GitHub Visitors
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=alihossen4.alihossen4&"  />
-<br/>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=alihossen4.alihossen4" />
+<br/><br/>
 
 ## 🏆 GitHub Trophies
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=alihossen4&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=alihossen4&icon=5&color=1)](https://visitcount.itsvg.in)
-
 
