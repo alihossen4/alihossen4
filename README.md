@@ -4,12 +4,11 @@
 # 💫 Hi 👋, I'm Ali Hossen
 **A passionate Software Engineer || Web Deginer || SEO Support**
 
-Email Me 👉 ✉️ **mdhsn.bin@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **mdahossen.dev@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** e-commerse project
 - 🌱 **I’m currently learning:** Flutter
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:*** mdhsn.bin@gmail.com
 - ⚡ **Fun fact:** What you see not always isn't happen actually
 
 
