@@ -16,9 +16,9 @@ Email Me 👉 ✉️ **mdahossen.dev@gmail.com** For Collaboration/Project or An
 
 A Full Stack Developer from Dhaka, Bangladesh, passionate about Web Design & Development. Specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js).
 
-[![Portfolio ->]((https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=about.me&logoColor=white)](https://www.alihossan.site/))
-
-
+<a href="https://www.alihossan.site/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=about.me&logoColor=white" alt="Portfolio">
+</a>
 
 ## About Me
 
